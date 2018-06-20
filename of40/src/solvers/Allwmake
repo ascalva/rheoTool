@@ -5,3 +5,4 @@ wmake rheoFoam
 wmake rheoTestFoam
 wmake rheoInterFoam
 wmake rheoEFoam
+wmake rheoFoam/rheoDyMFoam
