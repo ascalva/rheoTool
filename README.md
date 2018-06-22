@@ -25,6 +25,14 @@ The library containing the viscoelastic models has been developed based on the l
 
 ### Added Features
 * the transient flow solver _rheoDyMFoam_ (essentially _rheoFoam_ with added dynamic mesh capability).
+* added following models:
+    * PomPom
+    * SPP
+    * Giesekus-A
+    * Giesekus-AD (Giesekus-A with diffusion)
+    * FENE-CRA
+    * FENE-PA
+    * Oldroyd-BA
 
 ## Installation
 
