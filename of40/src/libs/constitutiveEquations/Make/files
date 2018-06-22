@@ -25,10 +25,10 @@ constitutiveEqs/constitutiveEq/newConstitutiveEq.C
 
  constitutiveEqs/PTTexp/PTTexp.C
  constitutiveEqs/PTTexp/PTTexpLog/PTTexpLog.C
- 
+
  constitutiveEqs/Rolie-Poly/RoliePoly.C
  constitutiveEqs/Rolie-Poly/Rolie-PolyLog/RoliePolyLog.C
- 
+
  constitutiveEqs/XPomPom/XPomPom.C
  constitutiveEqs/XPomPom/XPomPomLog/XPomPomLog.C
 
@@ -38,8 +38,16 @@ constitutiveEqs/constitutiveEq/newConstitutiveEq.C
  constitutiveEqs/GNF/HerschelBulkley/HerschelBulkley.C
 
  constitutiveEqs/multiMode/multiMode.C
- 
+
 constitutiveTwoPhaseMixture/constitutiveTwoPhaseMixture.C
 immiscibleConstitutiveTwoPhaseMixture/immiscibleConstitutiveTwoPhaseMixture.C
+
+constitutiveEqs/PomPom/PomPom.C
+constitutiveEqs/SPP/SPP.C
+constitutiveEqs/Giesekus-A/Giesekus-A.C
+constitutiveEqs/FENE_CRA/FENE_CRA.C
+constitutiveEqs/Oldroyd_BA/Oldroyd_BA.C
+constitutiveEqs/FENE_PA/FENE_PA.C
+constitutiveEqs/Giesekus-AD/Giesekus-AD.C
 
 LIB = $(FOAM_USER_LIBBIN)/libconstitutiveEquations
