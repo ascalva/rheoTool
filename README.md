@@ -23,7 +23,7 @@ The library containing the viscoelastic models has been developed based on the l
 * a solver for two-phase flows is available (_rheoInterFoam_), where any GNF or viscoelastic model can be used for each phase (_under-development_);
 * the tool is available for both [OpenFOAM�] and [foam-extend] versions.
 
-### Added Features
+### Added Features (NOTE: changes only made to of40)
 * the transient flow solver _rheoDyMFoam_ (essentially _rheoFoam_ with added dynamic mesh capability).
 * added following models:
     * PomPom
